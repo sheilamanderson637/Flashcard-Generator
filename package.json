@@ -1,0 +1,24 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Javascript backend flashcard application using Cloze Constructors",
+  "main": "basiccard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheilamanderson637/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheilamanderson637/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/sheilamanderson637/Flashcard-Generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^3.2.1"
+  },
+  "devDependencies": {}
+}
